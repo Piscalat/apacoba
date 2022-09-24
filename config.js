@@ -20,41 +20,41 @@ global.APIs = {
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
     //gausah di apa² in, Udah Free kok :)
-    'https://zenzapis.xyz': 'akame-chan>_<',
+    'https://zenzapis.xyz': 'bae61ed30b44',
     'https://betabotz-api.herokuapp.com': 'BetaBotz',
 }
 
 //—————「 Set Nama Bot & Own 」—————//
 //terserah mau ubah atau nggak
-global.namabot = 'Akame'
-global.namaowner = 'GuaAbuzz'
+global.namabot = 'Riakimu-BOT'
+global.namaowner = 'Afuka'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
-global.owner = ['6289636827082']
-global.premium = ['6289636827082']
+global.owner = ['436993190999919']
+global.premium = ['6285607588713']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
-global.telkomsel = ['6282171978174']
+global.telkomsel = ['6285893892553']
 global.xl = ['-']
 global.indosat = ['-']
-global.tri = ['6289636827082']
+global.tri = ['6285893892553']
 global.smartfren = ['-']
-global.gopay = ['6289636827082']
-global.dana = ['6289636827082']
+global.gopay = ['6285893892553']
+global.dana = ['085607588713']
 global.ovo = ['-']
-global.saweria = ['https://saweria.co/GuaAbuzz']
+global.saweria = ['https://saweria.co/Afuka']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.github = 'https://github.com/Abuzzpoet'
-global.myweb = 'https://tiktok.com/@guaabuzz'
+global.github = 'https://github.com/FukaHoutman'
+global.myweb = 'https://instagram.com/khlfyrmdni'
 
 //—————「 Set Wm 」—————//
 //terserah mau ubah atau nggak
-global.packname = 'GuaAbuzz'
-global.author = 'WhatsApp Bot'
+global.packname = 'Riakimu❤️BOT'
+global.author = 'Owner - Khalfy Ramadhani'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
